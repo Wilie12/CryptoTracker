@@ -1,4 +1,4 @@
-package com.willaapps.cryptotracker.util
+package com.willaapps.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 
